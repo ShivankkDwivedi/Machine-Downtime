@@ -2,18 +2,19 @@
 📖 Overview
 This project focuses on analyzing and optimizing machine downtime using data analytics techniques. The primary objective was to identify patterns, root causes, and actionable insights to minimize downtime and improve operational efficiency in a manufacturing environment.
 
-Due to company policy, the dataset is not uploaded, but this repository contains:
-✔ Project Architecture (PNG)
-✔ Data Analyst Checklist
-✔ Research Tracker (with problem definitions and sources)
-✔ Presentation Deck summarizing the end-to-end approach
+## Due to company policy, the dataset is not uploaded, but this repository contains:
+- Project Architecture (PNG)
+- Data Analyst Checklist
+- Research Tracker (with problem definitions and sources)
+- Presentation Deck summarizing the end-to-end approach
 
-✅ Project Objectives
-Business Problem: Excessive machine downtime leading to production loss and reduced efficiency.
+## Project Objectives
 
-Goal: Reduce downtime by identifying root causes and providing data-driven solutions.
+- Business Problem: Excessive machine downtime leading to production loss and reduced efficiency.
 
-Success Criteria: Achieve accurate downtime prediction and generate recommendations for maintenance and process improvements.
+- Goal: Reduce downtime by identifying root causes and providing data-driven solutions.
+
+- Success Criteria: Achieve accurate downtime prediction and generate recommendations for maintenance and process improvements.
 
 🏗 Project Architecture
 The architecture diagram (uploaded as architecture.png) illustrates:
